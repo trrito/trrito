@@ -175,14 +175,14 @@ function loadMoghysSays() {
 	const moghyaSaysInnerHtml = `<div class="col m6">
 		<h6>Recipe for this website:</h6>	
 		<div class="row">
-			Would you like to have your own portfolio in this template ? It"s pretty easy, <a href="#">moghya</a> covered it up for everyone out their. 
+			Would you like to have your own portfolio in this template ? It"s pretty easy, <a href="#">Trrito</a> covered it up for everyone out their. 
 			All the content on this website is dynamically loaded from JSON data.
 			Fork this <a href="#">repo</a> on github and edit <a href="#">js/profile.json</a> for adding your data.
 			<a href="#">Read more</a><br>
 			If you like this website, consider giving a star to its repo <a href="#/">here</a>.
 		</div>
 	</div>
-	<div class="col m6">
+	<div class="col m6">s
 		<h6>Warm Gratitudes</h6>
 		<div class="row">
 			<div class="col m3 s3"><a href="https:https://pages.github.com/">Github Pages</a></div>
